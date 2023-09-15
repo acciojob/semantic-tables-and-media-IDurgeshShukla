@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+table,th,td{
+	border : 1px solid;
+}
+img{
+	width : 100px;
+	border-radius : 5px;
+}
+video{
+	width : 500px;
+	border-radius : 8px;
+}
